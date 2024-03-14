@@ -36,7 +36,7 @@ button:hover{
     {
         display: none !important;
     }
-	table {page-break-inside: avoid !important}
+	div {page-break-inside: avoid !important}
 	html, body {margin: 0;padding: 0;background-color: white !important}
 	.main {border: none !important}
 	.container{padding:0}

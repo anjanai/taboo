@@ -1,5 +1,5 @@
 let words = `
-cupboard storage storage kitchen closet shelf
+cupboard hubbard storage kitchen closet shelf
 skateboard rollerblade scooter ride wheels ramp
 Billboard Sign advertisement poster display panel
 Bulletin_Board Announcement posting message notice news

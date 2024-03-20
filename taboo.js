@@ -7,7 +7,7 @@ Boardwalk Beach Path walkway promenade pier jetty
 Boardroom Meeting room office conference headquarters executive suite
 Scoreboard Display tally sheet record standings tracker
 Motherboard Circuitry electronics computer PCB components connect mom parent father
-Blackboard Chalk writing teacher class 
+Blackboard Chalk writing teacher class white color 
 Leaderboard Ranking standings top performers chart list
 Boarding_Pass Ticket permit document clearance authorization flight
 Carom_Board coins striker queen white black 

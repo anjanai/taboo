@@ -10,6 +10,14 @@ Motherboard Circuitry electronics computer
 Blackboard Chalk writing teacher class 
 Leaderboard Ranking standings top performers chart list
 Boarding_Pass Ticket permit document clearance authorization flight
+Carom_Board coins striker queen white black 
+Aboveboard  top on below legitimate honest open
+Waterboard H2O liquid torture interrogation prisoner 
+Onboard off top employee new organization person
+Preboard before passenger flight plane aircraft get
+Ouija_board spirt answer question planchette seance ghost
+Switchboard on off panel control telephone exchange power
+Sideboard furniture shelf drawers dishes table silverware
 `;
 
 $(document).ready(function () {

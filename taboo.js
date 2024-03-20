@@ -6,7 +6,7 @@ Bulletin_Board Announcement posting message notice news
 Boardwalk Beach Path walkway promenade pier jetty
 Boardroom Meeting room office conference headquarters executive suite
 Scoreboard Display tally sheet record standings tracker
-Motherboard Circuitry electronics computer PCB components connect
+Motherboard Circuitry electronics computer PCB components connect mom parent father
 Blackboard Chalk writing teacher class 
 Leaderboard Ranking standings top performers chart list
 Boarding_Pass Ticket permit document clearance authorization flight
@@ -17,7 +17,7 @@ Onboard off top employee new organization person
 Preboard before passenger flight plane aircraft get
 Ouija_board spirt answer question planchette seance ghost
 Switchboard on off panel control telephone exchange power
-Sideboard furniture shelf drawers dishes table silverware
+Sideboard furniture shelf drawers dishes table silverware dining
 `;
 
 $(document).ready(function () {
